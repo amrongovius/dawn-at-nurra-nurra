@@ -12,7 +12,7 @@ This repository documents the complete process of transforming those WhatsApp me
 
 ### Why This Matters
 
-This isn't just a technical project—it's a tribute to:
+It's a tribute to:
 - 20 years of environmental dedication
 - Daily connection through WhatsApp
 - The quiet beauty of Australian dawn
